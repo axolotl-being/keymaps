@@ -1,7 +1,19 @@
-*
-!*/
+/*
+!/.gitignore
+!/evo70r2
+/evo70r2/*
+!/evo70r2/qmk_firmware
+/evo70r2/qmk_firmware/*
+!/evo70r2/qmk_firmware/keyboards
+/evo70r2/qmk_firmware/keyboards/*
+!/evo70r2/qmk_firmware/keyboards/custommk
+/evo70r2/qmk_firmware/keyboards/custommk/*
+!/evo70r2/qmk_firmware/keyboards/custommk/evo70_r2
+/evo70r2/qmk_firmware/keyboards/custommk/evo70_r2/*
+!/evo70r2/qmk_firmware/keyboards/custommk/evo70_r2/keymaps
+/evo70r2/qmk_firmware/keyboards/custommk/evo70_r2/keymaps/*
+!/evo70r2/qmk_firmware/keyboards/custommk/evo70_r2/keymaps/personal_v1/
 
-!/evo70r2/qmk_firmware/keyboards/custommk/evo70_r2/keymaps/personal_v1/**
-!/qmk_firmware/keyboards/dztech/mellow/keymaps/personal_hhkb/**
-!/dasky/qmk_firmware/keyboards/epomaker/tide75/keymaps/axolotol/**
+# !/qmk_firmware/keyboards/dztech/mellow/keymaps/personal_hhkb/
+# !/dasky/qmk_firmware/keyboards/epomaker/tide75/keymaps/axolotol/
 !.gitignore
